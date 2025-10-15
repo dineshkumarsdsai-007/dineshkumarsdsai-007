@@ -31,7 +31,7 @@ I focus on automating **data workflows**, **model pipelines**, and **deployment 
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/sdk-dineshkumars" target="_blank">
+  <a href="<a href="https://www.linkedin.com/in/sdk-dineshkumarS" target="_blank">" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/dineshkumarsdsai-007" target="_blank">
