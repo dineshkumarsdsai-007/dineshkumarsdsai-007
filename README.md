@@ -31,10 +31,10 @@ I focus on automating **data workflows**, **model pipelines**, and **deployment 
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/dineshkumars-ai" target="_blank">
+  <a href="www.linkedin.com/in/sdk-dineshkumars" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/DineshKumar-S" target="_blank">
+  <a href="https://github.com/dineshkumarsdsai-007" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:dineshkumar.s.ds.ai@gmail.com">
