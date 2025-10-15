@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNseG96dzE3YWg3bmhpMmtzcjFsMGZocXQ3eWhrZG1zZWlsNG01aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif" width="600">
+  <img src="" width="600">
 
   
 </p>
@@ -42,5 +42,5 @@ I focus on automating **data workflows**, **model pipelines**, and **deployment 
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600">
+  <img src="[https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNseG96dzE3YWg3bmhpMmtzcjFsMGZocXQ3eWhrZG1zZWlsNG01aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif)" width="600">
 </p>
